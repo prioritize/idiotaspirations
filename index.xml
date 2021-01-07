@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attempts by an average programmer</title>
+    <link>http://idiotaspirations.com/</link>
+    <description>Recent content on Attempts by an average programmer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 16:32:39 -0800</lastBuildDate><atom:link href="http://idiotaspirations.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Years Resolution</title>
+      <link>http://idiotaspirations.com/posts/my-first-post/</link>
+      <pubDate>Fri, 01 Jan 2021 16:32:39 -0800</pubDate>
+      
+      <guid>http://idiotaspirations.com/posts/my-first-post/</guid>
+      <description>Self-Improvement; Every year I make New Years resolutions, and I&amp;rsquo;m somewhat successful in holding to them. This year I&amp;rsquo;ve resolved to improve myself by bettering my ability to program. I&amp;rsquo;d say I&amp;rsquo;m middling in my current ability. I rarely find myself incapable of performing a task, but I&amp;rsquo;d rarely say my solutions are the most optimized or clear to read. On another note, I also struggle to sound professional in emails and other written correspondence and I think writing a devlog would help me in that regards.</description>
+    </item>
+    
+  </channel>
+</rss>
